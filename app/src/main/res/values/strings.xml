@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">P7  News App Stage2</string>
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings For Number Of News Items Preference [CHAR LIMIT=30] -->
+    <string name="settings_number_of_news_items_label">Number Of Displayed News Items</string>
+    <string name="settings_number_of_news_items_key" translatable="false">page-size</string>
+    <string name="settings_number_of_news_items_default" translatable="false">10</string>
+
+    <!-- Strings For Choose Section Preference [CHAR LIMIT=30] -->
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_default" translatable="false">@string/settings_section_all_value</string>
+    <!-- Label for choose section all sections option [CHAR LIMIT=20] -->
+    <string name="settings_section_all_label">All Sections</string>
+    <string name="settings_section_all_value" translatable="false"></string>
+    <!-- Label for choose section science option [CHAR LIMIT=20] -->
+    <string name="settings_section_science_label">Science</string>
+    <string name="settings_section_science_value" translatable="false">science</string>
+    <!-- Label for choose section tech option [CHAR LIMIT=20] -->
+    <string name="settings_section_tech_label">Technology</string>
+    <string name="settings_section_tech_value" translatable="false">technology</string>
+    <!-- Label for choose section business option [CHAR LIMIT=20] -->
+    <string name="settings_section_business_label">Business</string>
+    <string name="settings_section_business_value" translatable="false">business</string>
+    <!-- Label for choose section football option [CHAR LIMIT=20] -->
+    <string name="settings_section_football_label">Football</string>
+    <string name="settings_section_football_value" translatable="false">football</string>
+    <!-- Label for choose section environment option [CHAR LIMIT=20] -->
+    <string name="settings_section_environment_label">Environment</string>
+    <string name="settings_section_environment_value" translatable="false">environment</string>
+</resources>
